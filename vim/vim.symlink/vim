@@ -4,8 +4,8 @@
 call pathogen#infect()
 
 " ## https://github.com/tomtom/tskeleton_vim
-autocmd BufNewFile *.html TSkeletonSetup plain.html
-autocmd BufNewFile *.pl TSkeletonSetup plain.pl
+" autocmd BufNewFile *.html TSkeletonSetup plain.html
+" autocmd BufNewFile *.pl TSkeletonSetup plain.pl
 
 
 " ##### settings #####
