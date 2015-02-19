@@ -1,0 +1,4 @@
+# https://mutelight.org/practical-tmux
+set-option -g prefix C-a
+bind-key C-a last-window
+
