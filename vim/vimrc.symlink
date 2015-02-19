@@ -1,1 +1,4 @@
 syntax on
+let VIMRC_DIR  =  $HOME . "/.dotfiles/vim/" 
+let VIMRC_FILE =  VIMRC_DIR . "/vim" 
+execute "so " VIMRC_FILE
